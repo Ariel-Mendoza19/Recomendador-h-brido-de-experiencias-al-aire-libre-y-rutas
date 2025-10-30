@@ -1,0 +1,659 @@
+user_id,lugar,rating
+user4,Río Tomebamba,5.0
+user3,Museo Pumapungo,1.0
+user5,Mirador de Turi,1.0
+user1,Museo de las Culturas Aborígenes,1.0
+user4,Parque Calderón,5.0
+user4,Río Tomebamba,5.0
+user3,Museo Pumapungo,4.0
+user1,Río Tomebamba,4.0
+user5,Parque Nacional Cajas,5.0
+user1,Parque Calderón,3.0
+user3,Museo Pumapungo,2.0
+user1,Parque Calderón,4.0
+user3,Mirador de Turi,1.0
+user5,Río Tomebamba,2.0
+user1,Museo Pumapungo,3.0
+user5,Mirador de Turi,3.0
+user3,Parque Calderón,3.0
+user4,Laguna Llaviucu,1.0
+user4,Plaza de las Flores,1.0
+user2,Laguna Llaviucu,3.0
+user4,Parque Calderón,5.0
+user1,Laguna Llaviucu,4.0
+user1,Mirador de Turi,3.0
+user5,Plaza de las Flores,1.0
+user5,Museo de las Culturas Aborígenes,3.0
+user3,Parque Nacional Cajas,1.0
+user2,Parque Nacional Cajas,5.0
+user5,Mirador de Turi,4.0
+user3,Museo de las Culturas Aborígenes,4.0
+user3,Plaza de las Flores,2.0
+user3,Río Tomebamba,2.0
+user2,Mirador de Turi,3.0
+user4,Museo de las Culturas Aborígenes,4.0
+user4,Río Tomebamba,1.0
+user2,Laguna Llaviucu,3.0
+user2,Laguna Llaviucu,4.0
+user2,Mirador de Turi,2.0
+user3,Plaza de las Flores,2.0
+user3,Museo Pumapungo,3.0
+user5,Museo Pumapungo,4.0
+user1,Museo Pumapungo,3.0
+user2,Museo Pumapungo,4.0
+user3,Mirador de Turi,5.0
+user1,Río Tomebamba,3.0
+user1,Museo de las Culturas Aborígenes,3.0
+user5,Río Tomebamba,1.0
+user5,Parque Nacional Cajas,4.0
+user3,Parque Calderón,4.0
+user2,Laguna Llaviucu,5.0
+user3,Museo Pumapungo,5.0
+user2,Parque Nacional Cajas,4.0
+user5,Museo Pumapungo,4.0
+user4,Museo de las Culturas Aborígenes,3.0
+user5,Parque Calderón,3.0
+user3,Río Tomebamba,1.0
+user1,Laguna Llaviucu,5.0
+user2,Laguna Llaviucu,5.0
+user2,Parque Nacional Cajas,1.0
+user4,Mirador de Turi,4.0
+user4,Museo de las Culturas Aborígenes,2.0
+user3,Laguna Llaviucu,2.0
+user4,Laguna Llaviucu,4.0
+user2,Mirador de Turi,5.0
+user4,Laguna Llaviucu,1.0
+user2,Parque Calderón,2.0
+user4,Parque Nacional Cajas,2.0
+user5,Parque Nacional Cajas,2.0
+user3,Museo de las Culturas Aborígenes,3.0
+user3,Laguna Llaviucu,3.0
+user3,Parque Calderón,1.0
+user1,Museo de las Culturas Aborígenes,1.0
+user4,Mirador de Turi,2.0
+user5,Museo de las Culturas Aborígenes,1.0
+user2,Parque Calderón,5.0
+user2,Parque Calderón,1.0
+user1,Parque Calderón,3.0
+user1,Plaza de las Flores,4.0
+user3,Laguna Llaviucu,2.0
+user5,Mirador de Turi,4.0
+user3,Laguna Llaviucu,4.0
+user3,Museo de las Culturas Aborígenes,2.0
+user2,Parque Calderón,1.0
+user2,Museo Pumapungo,3.0
+user3,Museo de las Culturas Aborígenes,5.0
+user1,Laguna Llaviucu,4.0
+user1,Museo Pumapungo,3.0
+user1,Río Tomebamba,2.0
+user1,Río Tomebamba,3.0
+user2,Parque Calderón,1.0
+user2,Parque Nacional Cajas,3.0
+user4,Parque Nacional Cajas,2.0
+user2,Museo Pumapungo,2.0
+user1,Mirador de Turi,3.0
+user5,Parque Calderón,4.0
+user5,Plaza de las Flores,1.0
+user2,Museo Pumapungo,3.0
+user1,Parque Nacional Cajas,4.0
+user5,Laguna Llaviucu,5.0
+user3,Laguna Llaviucu,4.0
+user2,Plaza de las Flores,4.0
+user4,Parque Calderón,1.0
+user4,Museo Pumapungo,1.0
+user2,Mirador de Turi,2.0
+user4,Mirador de Turi,1.0
+user3,Río Tomebamba,1.0
+user4,Museo Pumapungo,5.0
+user5,Mirador de Turi,2.0
+user1,Plaza de las Flores,3.0
+user3,Laguna Llaviucu,5.0
+user4,Museo de las Culturas Aborígenes,4.0
+user5,Laguna Llaviucu,3.0
+user4,Río Tomebamba,1.0
+user3,Laguna Llaviucu,5.0
+user2,Museo de las Culturas Aborígenes,4.0
+user2,Museo Pumapungo,5.0
+user5,Museo Pumapungo,3.0
+user3,Río Tomebamba,5.0
+user2,Laguna Llaviucu,2.0
+user2,Parque Calderón,3.0
+user4,Mirador de Turi,4.0
+user4,Parque Nacional Cajas,3.0
+user1,Río Tomebamba,1.0
+user3,Laguna Llaviucu,4.0
+user5,Plaza de las Flores,2.0
+user2,Mirador de Turi,1.0
+user2,Mirador de Turi,5.0
+user1,Parque Calderón,3.0
+user2,Río Tomebamba,1.0
+user2,Mirador de Turi,3.0
+user3,Mirador de Turi,2.0
+user1,Parque Calderón,5.0
+user5,Parque Nacional Cajas,2.0
+user4,Plaza de las Flores,4.0
+user3,Museo Pumapungo,1.0
+user1,Laguna Llaviucu,3.0
+user5,Museo de las Culturas Aborígenes,2.0
+user5,Parque Calderón,5.0
+user4,Laguna Llaviucu,1.0
+user2,Plaza de las Flores,5.0
+user2,Parque Nacional Cajas,4.0
+user1,Museo Pumapungo,5.0
+user1,Parque Nacional Cajas,4.0
+user5,Parque Nacional Cajas,4.0
+user2,Plaza de las Flores,3.0
+user3,Río Tomebamba,4.0
+user1,Museo Pumapungo,3.0
+user1,Río Tomebamba,5.0
+user2,Río Tomebamba,3.0
+user1,Museo de las Culturas Aborígenes,4.0
+user5,Parque Calderón,4.0
+user1,Mirador de Turi,3.0
+user1,Museo Pumapungo,5.0
+user2,Mirador de Turi,3.0
+user4,Parque Nacional Cajas,5.0
+user3,Museo Pumapungo,3.0
+user5,Museo Pumapungo,5.0
+user4,Museo Pumapungo,3.0
+user2,Laguna Llaviucu,2.0
+user4,Parque Calderón,4.0
+user4,Río Tomebamba,2.0
+user4,Parque Nacional Cajas,2.0
+user5,Mirador de Turi,2.0
+user2,Mirador de Turi,5.0
+user1,Plaza de las Flores,4.0
+user3,Parque Nacional Cajas,5.0
+user1,Parque Nacional Cajas,2.0
+user2,Museo Pumapungo,2.0
+user2,Laguna Llaviucu,1.0
+user4,Museo de las Culturas Aborígenes,5.0
+user1,Mirador de Turi,5.0
+user1,Museo Pumapungo,4.0
+user2,Museo de las Culturas Aborígenes,4.0
+user3,Parque Calderón,2.0
+user3,Parque Calderón,1.0
+user2,Plaza de las Flores,1.0
+user1,Mirador de Turi,4.0
+user1,Río Tomebamba,2.0
+user5,Parque Calderón,5.0
+user3,Museo de las Culturas Aborígenes,2.0
+user3,Museo de las Culturas Aborígenes,2.0
+user4,Parque Calderón,3.0
+user5,Museo Pumapungo,1.0
+user5,Plaza de las Flores,1.0
+user5,Plaza de las Flores,1.0
+user5,Mirador de Turi,5.0
+user3,Plaza de las Flores,2.0
+user2,Laguna Llaviucu,4.0
+user5,Museo Pumapungo,3.0
+user3,Museo Pumapungo,4.0
+user3,Parque Nacional Cajas,1.0
+user3,Parque Calderón,4.0
+user5,Parque Nacional Cajas,5.0
+user2,Río Tomebamba,5.0
+user5,Parque Nacional Cajas,5.0
+user2,Parque Nacional Cajas,2.0
+user2,Río Tomebamba,2.0
+user5,Plaza de las Flores,3.0
+user2,Río Tomebamba,2.0
+user4,Plaza de las Flores,3.0
+user4,Río Tomebamba,5.0
+user2,Museo de las Culturas Aborígenes,5.0
+user1,Plaza de las Flores,1.0
+user5,Laguna Llaviucu,5.0
+user3,Río Tomebamba,3.0
+user4,Río Tomebamba,5.0
+user2,Parque Nacional Cajas,3.0
+user3,Plaza de las Flores,1.0
+user2,Río Tomebamba,2.0
+user2,Museo Pumapungo,4.0
+user2,Parque Calderón,5.0
+user4,Laguna Llaviucu,5.0
+user4,Museo Pumapungo,5.0
+user5,Río Tomebamba,3.0
+user4,Río Tomebamba,2.0
+user4,Laguna Llaviucu,1.0
+user4,Laguna Llaviucu,1.0
+user5,Museo Pumapungo,5.0
+user1,Laguna Llaviucu,5.0
+user1,Parque Nacional Cajas,5.0
+user5,Parque Calderón,4.0
+user1,Museo de las Culturas Aborígenes,1.0
+user4,Plaza de las Flores,2.0
+user3,Museo de las Culturas Aborígenes,3.0
+user3,Laguna Llaviucu,3.0
+user3,Plaza de las Flores,2.0
+user4,Río Tomebamba,1.0
+user1,Plaza de las Flores,1.0
+user3,Laguna Llaviucu,3.0
+user5,Plaza de las Flores,3.0
+user2,Río Tomebamba,5.0
+user1,Laguna Llaviucu,5.0
+user1,Río Tomebamba,5.0
+user2,Museo de las Culturas Aborígenes,2.0
+user3,Río Tomebamba,4.0
+user1,Parque Calderón,4.0
+user2,Río Tomebamba,2.0
+user5,Río Tomebamba,5.0
+user1,Laguna Llaviucu,1.0
+user1,Laguna Llaviucu,1.0
+user1,Museo de las Culturas Aborígenes,3.0
+user4,Río Tomebamba,4.0
+user3,Plaza de las Flores,1.0
+user4,Museo Pumapungo,4.0
+user1,Laguna Llaviucu,3.0
+user3,Museo de las Culturas Aborígenes,1.0
+user2,Museo de las Culturas Aborígenes,2.0
+user3,Laguna Llaviucu,3.0
+user4,Mirador de Turi,5.0
+user1,Río Tomebamba,5.0
+user3,Mirador de Turi,4.0
+user5,Mirador de Turi,3.0
+user4,Mirador de Turi,2.0
+user4,Museo Pumapungo,5.0
+user4,Parque Calderón,5.0
+user5,Museo Pumapungo,2.0
+user4,Río Tomebamba,4.0
+user1,Plaza de las Flores,3.0
+user1,Plaza de las Flores,1.0
+user3,Museo Pumapungo,5.0
+user4,Plaza de las Flores,5.0
+user1,Museo de las Culturas Aborígenes,1.0
+user3,Plaza de las Flores,1.0
+user3,Mirador de Turi,5.0
+user1,Museo Pumapungo,2.0
+user3,Museo de las Culturas Aborígenes,2.0
+user4,Museo Pumapungo,3.0
+user4,Museo de las Culturas Aborígenes,4.0
+user2,Plaza de las Flores,1.0
+user1,Museo Pumapungo,2.0
+user2,Museo de las Culturas Aborígenes,4.0
+user1,Plaza de las Flores,1.0
+user4,Mirador de Turi,1.0
+user1,Museo de las Culturas Aborígenes,2.0
+user3,Parque Calderón,5.0
+user4,Río Tomebamba,5.0
+user1,Parque Calderón,2.0
+user3,Parque Nacional Cajas,5.0
+user3,Mirador de Turi,3.0
+user2,Museo de las Culturas Aborígenes,5.0
+user1,Museo Pumapungo,3.0
+user1,Parque Calderón,3.0
+user4,Río Tomebamba,4.0
+user3,Río Tomebamba,5.0
+user3,Plaza de las Flores,2.0
+user4,Plaza de las Flores,2.0
+user3,Laguna Llaviucu,1.0
+user1,Laguna Llaviucu,1.0
+user1,Museo Pumapungo,2.0
+user2,Río Tomebamba,3.0
+user4,Museo de las Culturas Aborígenes,4.0
+user3,Plaza de las Flores,3.0
+user2,Laguna Llaviucu,3.0
+user1,Parque Calderón,1.0
+user2,Río Tomebamba,2.0
+user2,Parque Calderón,4.0
+user3,Parque Calderón,4.0
+user4,Plaza de las Flores,2.0
+user3,Parque Calderón,4.0
+user4,Plaza de las Flores,5.0
+user2,Laguna Llaviucu,1.0
+user5,Parque Nacional Cajas,4.0
+user4,Parque Calderón,4.0
+user2,Parque Calderón,3.0
+user4,Museo de las Culturas Aborígenes,5.0
+user1,Parque Calderón,4.0
+user5,Río Tomebamba,1.0
+user3,Plaza de las Flores,2.0
+user3,Parque Nacional Cajas,5.0
+user5,Laguna Llaviucu,1.0
+user4,Laguna Llaviucu,1.0
+user5,Parque Calderón,3.0
+user1,Museo de las Culturas Aborígenes,1.0
+user3,Museo Pumapungo,3.0
+user2,Mirador de Turi,2.0
+user4,Plaza de las Flores,1.0
+user2,Parque Nacional Cajas,1.0
+user4,Museo Pumapungo,1.0
+user3,Museo Pumapungo,5.0
+user3,Laguna Llaviucu,1.0
+user5,Parque Nacional Cajas,5.0
+user2,Plaza de las Flores,2.0
+user1,Museo de las Culturas Aborígenes,5.0
+user4,Parque Nacional Cajas,4.0
+user5,Parque Calderón,5.0
+user2,Mirador de Turi,4.0
+user3,Plaza de las Flores,5.0
+user1,Río Tomebamba,3.0
+user1,Río Tomebamba,3.0
+user4,Museo Pumapungo,5.0
+user5,Museo Pumapungo,5.0
+user4,Museo Pumapungo,3.0
+user4,Parque Nacional Cajas,3.0
+user5,Parque Nacional Cajas,3.0
+user1,Parque Calderón,5.0
+user5,Parque Calderón,4.0
+user4,Parque Calderón,5.0
+user3,Parque Calderón,5.0
+user3,Parque Nacional Cajas,5.0
+user5,Mirador de Turi,3.0
+user2,Laguna Llaviucu,3.0
+user2,Parque Calderón,5.0
+user2,Parque Nacional Cajas,1.0
+user2,Laguna Llaviucu,4.0
+user1,Parque Nacional Cajas,3.0
+user1,Museo Pumapungo,2.0
+user5,Plaza de las Flores,3.0
+user5,Parque Calderón,1.0
+user4,Mirador de Turi,1.0
+user3,Mirador de Turi,4.0
+user2,Museo Pumapungo,2.0
+user3,Museo Pumapungo,4.0
+user1,Parque Nacional Cajas,2.0
+user5,Museo de las Culturas Aborígenes,3.0
+user4,Laguna Llaviucu,4.0
+user3,Museo Pumapungo,5.0
+user1,Museo de las Culturas Aborígenes,3.0
+user1,Mirador de Turi,4.0
+user4,Laguna Llaviucu,4.0
+user3,Laguna Llaviucu,1.0
+user3,Plaza de las Flores,5.0
+user2,Mirador de Turi,4.0
+user3,Río Tomebamba,3.0
+user4,Parque Nacional Cajas,3.0
+user3,Plaza de las Flores,5.0
+user4,Museo de las Culturas Aborígenes,2.0
+user5,Parque Nacional Cajas,3.0
+user4,Mirador de Turi,3.0
+user5,Mirador de Turi,3.0
+user5,Museo Pumapungo,5.0
+user1,Museo de las Culturas Aborígenes,5.0
+user4,Plaza de las Flores,2.0
+user5,Museo de las Culturas Aborígenes,2.0
+user3,Plaza de las Flores,5.0
+user4,Laguna Llaviucu,5.0
+user1,Museo Pumapungo,2.0
+user4,Plaza de las Flores,5.0
+user5,Mirador de Turi,3.0
+user1,Plaza de las Flores,1.0
+user3,Laguna Llaviucu,2.0
+user1,Laguna Llaviucu,5.0
+user4,Museo de las Culturas Aborígenes,5.0
+user5,Museo Pumapungo,2.0
+user1,Museo de las Culturas Aborígenes,5.0
+user4,Parque Calderón,1.0
+user1,Laguna Llaviucu,2.0
+user3,Plaza de las Flores,3.0
+user1,Parque Nacional Cajas,1.0
+user2,Río Tomebamba,4.0
+user3,Parque Nacional Cajas,4.0
+user3,Museo Pumapungo,2.0
+user2,Museo de las Culturas Aborígenes,4.0
+user4,Laguna Llaviucu,3.0
+user2,Mirador de Turi,4.0
+user3,Parque Calderón,5.0
+user2,Laguna Llaviucu,1.0
+user1,Museo de las Culturas Aborígenes,4.0
+user2,Plaza de las Flores,4.0
+user3,Plaza de las Flores,2.0
+user3,Museo de las Culturas Aborígenes,4.0
+user5,Parque Nacional Cajas,3.0
+user3,Parque Nacional Cajas,5.0
+user4,Laguna Llaviucu,2.0
+user1,Laguna Llaviucu,2.0
+user1,Mirador de Turi,4.0
+user5,Museo Pumapungo,5.0
+user4,Plaza de las Flores,2.0
+user3,Museo de las Culturas Aborígenes,4.0
+user5,Museo de las Culturas Aborígenes,1.0
+user1,Museo Pumapungo,2.0
+user5,Museo Pumapungo,2.0
+user1,Mirador de Turi,2.0
+user2,Mirador de Turi,4.0
+user4,Río Tomebamba,1.0
+user5,Río Tomebamba,1.0
+user2,Río Tomebamba,3.0
+user5,Mirador de Turi,2.0
+user2,Museo Pumapungo,3.0
+user4,Parque Nacional Cajas,4.0
+user5,Parque Nacional Cajas,3.0
+user4,Museo Pumapungo,5.0
+user2,Parque Nacional Cajas,4.0
+user4,Museo de las Culturas Aborígenes,1.0
+user2,Plaza de las Flores,1.0
+user2,Plaza de las Flores,4.0
+user4,Parque Calderón,2.0
+user2,Río Tomebamba,1.0
+user4,Mirador de Turi,3.0
+user1,Plaza de las Flores,4.0
+user3,Museo Pumapungo,3.0
+user5,Parque Calderón,3.0
+user1,Parque Nacional Cajas,4.0
+user3,Plaza de las Flores,1.0
+user5,Mirador de Turi,4.0
+user4,Museo Pumapungo,4.0
+user2,Parque Nacional Cajas,4.0
+user4,Museo Pumapungo,1.0
+user2,Plaza de las Flores,3.0
+user1,Parque Calderón,2.0
+user3,Río Tomebamba,3.0
+user1,Parque Nacional Cajas,4.0
+user4,Parque Nacional Cajas,1.0
+user1,Parque Nacional Cajas,2.0
+user4,Parque Calderón,2.0
+user4,Museo de las Culturas Aborígenes,4.0
+user4,Parque Calderón,2.0
+user5,Río Tomebamba,2.0
+user2,Parque Nacional Cajas,1.0
+user5,Plaza de las Flores,3.0
+user3,Plaza de las Flores,5.0
+user5,Parque Calderón,1.0
+user3,Mirador de Turi,4.0
+user4,Río Tomebamba,3.0
+user2,Museo Pumapungo,5.0
+user4,Laguna Llaviucu,1.0
+user3,Mirador de Turi,2.0
+user3,Mirador de Turi,5.0
+user3,Laguna Llaviucu,4.0
+user2,Laguna Llaviucu,1.0
+user3,Parque Nacional Cajas,5.0
+user4,Plaza de las Flores,4.0
+user3,Parque Calderón,1.0
+user4,Plaza de las Flores,4.0
+user5,Museo de las Culturas Aborígenes,4.0
+user4,Museo Pumapungo,2.0
+user3,Parque Nacional Cajas,3.0
+user2,Museo Pumapungo,4.0
+user4,Museo Pumapungo,4.0
+user2,Río Tomebamba,4.0
+user4,Parque Calderón,5.0
+user3,Plaza de las Flores,5.0
+user1,Río Tomebamba,1.0
+user2,Parque Nacional Cajas,2.0
+user4,Mirador de Turi,1.0
+user1,Museo de las Culturas Aborígenes,5.0
+user3,Plaza de las Flores,5.0
+user1,Museo de las Culturas Aborígenes,1.0
+user1,Museo Pumapungo,3.0
+user4,Museo de las Culturas Aborígenes,5.0
+user3,Parque Calderón,3.0
+user5,Parque Nacional Cajas,4.0
+user1,Museo de las Culturas Aborígenes,4.0
+user4,Plaza de las Flores,4.0
+user4,Museo Pumapungo,3.0
+user2,Parque Nacional Cajas,1.0
+user2,Parque Calderón,4.0
+user4,Laguna Llaviucu,3.0
+user4,Museo de las Culturas Aborígenes,5.0
+user1,Parque Calderón,5.0
+user3,Laguna Llaviucu,4.0
+user4,Laguna Llaviucu,5.0
+user2,Museo Pumapungo,4.0
+user3,Museo de las Culturas Aborígenes,5.0
+user5,Plaza de las Flores,4.0
+user3,Museo Pumapungo,1.0
+user3,Laguna Llaviucu,1.0
+user1,Museo de las Culturas Aborígenes,4.0
+user1,Parque Nacional Cajas,4.0
+user2,Plaza de las Flores,3.0
+user5,Museo de las Culturas Aborígenes,5.0
+user5,Laguna Llaviucu,1.0
+user1,Río Tomebamba,3.0
+user1,Plaza de las Flores,2.0
+user4,Río Tomebamba,4.0
+user4,Plaza de las Flores,5.0
+user1,Museo de las Culturas Aborígenes,2.0
+user4,Mirador de Turi,2.0
+user3,Parque Nacional Cajas,5.0
+user4,Parque Nacional Cajas,2.0
+user4,Mirador de Turi,2.0
+user2,Museo Pumapungo,1.0
+user4,Parque Nacional Cajas,2.0
+user5,Río Tomebamba,2.0
+user5,Museo de las Culturas Aborígenes,1.0
+user2,Mirador de Turi,2.0
+user4,Laguna Llaviucu,1.0
+user3,Laguna Llaviucu,2.0
+user4,Laguna Llaviucu,2.0
+user3,Parque Calderón,3.0
+user4,Río Tomebamba,4.0
+user5,Río Tomebamba,1.0
+user5,Museo de las Culturas Aborígenes,3.0
+user2,Museo de las Culturas Aborígenes,5.0
+user1,Parque Nacional Cajas,5.0
+user2,Museo de las Culturas Aborígenes,3.0
+user3,Río Tomebamba,5.0
+user3,Museo de las Culturas Aborígenes,5.0
+user4,Laguna Llaviucu,4.0
+user1,Museo de las Culturas Aborígenes,4.0
+user3,Museo de las Culturas Aborígenes,4.0
+user5,Mirador de Turi,1.0
+user5,Plaza de las Flores,3.0
+user2,Museo de las Culturas Aborígenes,2.0
+user4,Museo Pumapungo,3.0
+user3,Río Tomebamba,4.0
+user2,Museo de las Culturas Aborígenes,5.0
+user5,Museo Pumapungo,5.0
+user2,Parque Nacional Cajas,3.0
+user5,Museo de las Culturas Aborígenes,5.0
+user1,Plaza de las Flores,2.0
+user1,Museo Pumapungo,3.0
+user2,Museo Pumapungo,5.0
+user3,Mirador de Turi,2.0
+user5,Parque Nacional Cajas,2.0
+user1,Parque Calderón,2.0
+user5,Parque Nacional Cajas,4.0
+user5,Plaza de las Flores,2.0
+user2,Museo Pumapungo,3.0
+user5,Laguna Llaviucu,2.0
+user2,Mirador de Turi,1.0
+user5,Río Tomebamba,2.0
+user1,Museo Pumapungo,2.0
+user4,Río Tomebamba,5.0
+user4,Plaza de las Flores,5.0
+user5,Parque Nacional Cajas,4.0
+user2,Río Tomebamba,4.0
+user3,Laguna Llaviucu,5.0
+user2,Museo de las Culturas Aborígenes,2.0
+user1,Parque Nacional Cajas,3.0
+user5,Mirador de Turi,1.0
+user3,Laguna Llaviucu,4.0
+user2,Parque Calderón,4.0
+user2,Parque Calderón,4.0
+user3,Mirador de Turi,1.0
+user2,Museo Pumapungo,5.0
+user2,Laguna Llaviucu,5.0
+user3,Museo de las Culturas Aborígenes,4.0
+user3,Parque Nacional Cajas,1.0
+user5,Parque Calderón,2.0
+user2,Laguna Llaviucu,2.0
+user4,Laguna Llaviucu,3.0
+user3,Parque Calderón,2.0
+user1,Parque Nacional Cajas,4.0
+user4,Plaza de las Flores,1.0
+user3,Plaza de las Flores,3.0
+user3,Río Tomebamba,3.0
+user2,Río Tomebamba,5.0
+user1,Mirador de Turi,5.0
+user3,Parque Nacional Cajas,3.0
+user5,Mirador de Turi,1.0
+user1,Río Tomebamba,5.0
+user5,Plaza de las Flores,5.0
+user3,Río Tomebamba,2.0
+user3,Museo Pumapungo,3.0
+user5,Parque Nacional Cajas,2.0
+user2,Parque Nacional Cajas,3.0
+user3,Parque Calderón,3.0
+user1,Parque Calderón,3.0
+user4,Museo de las Culturas Aborígenes,1.0
+user3,Parque Nacional Cajas,1.0
+user3,Mirador de Turi,5.0
+user4,Río Tomebamba,1.0
+user3,Río Tomebamba,2.0
+user5,Mirador de Turi,2.0
+user5,Laguna Llaviucu,3.0
+user1,Plaza de las Flores,1.0
+user4,Laguna Llaviucu,3.0
+user1,Parque Nacional Cajas,3.0
+user2,Parque Nacional Cajas,1.0
+user5,Laguna Llaviucu,5.0
+user4,Parque Nacional Cajas,4.0
+user5,Río Tomebamba,3.0
+user3,Plaza de las Flores,3.0
+user5,Parque Nacional Cajas,1.0
+user1,Río Tomebamba,3.0
+user3,Plaza de las Flores,1.0
+user2,Parque Calderón,4.0
+user1,Río Tomebamba,1.0
+user1,Laguna Llaviucu,5.0
+user5,Parque Calderón,3.0
+user5,Museo de las Culturas Aborígenes,4.0
+user2,Museo Pumapungo,2.0
+user3,Mirador de Turi,1.0
+user3,Laguna Llaviucu,1.0
+user4,Laguna Llaviucu,4.0
+user4,Museo Pumapungo,4.0
+user3,Museo Pumapungo,1.0
+user3,Museo Pumapungo,5.0
+user3,Río Tomebamba,4.0
+user5,Plaza de las Flores,1.0
+user5,Mirador de Turi,2.0
+user2,Museo Pumapungo,2.0
+user3,Museo Pumapungo,1.0
+user2,Plaza de las Flores,4.0
+user5,Museo Pumapungo,1.0
+user2,Plaza de las Flores,3.0
+user5,Parque Calderón,3.0
+user1,Parque Calderón,5.0
+user5,Laguna Llaviucu,4.0
+user4,Plaza de las Flores,2.0
+user5,Parque Nacional Cajas,3.0
+user4,Museo de las Culturas Aborígenes,2.0
+user3,Museo de las Culturas Aborígenes,5.0
+user4,Plaza de las Flores,3.0
+user5,Río Tomebamba,3.0
+user2,Museo de las Culturas Aborígenes,4.0
+user5,Laguna Llaviucu,1.0
+user5,Río Tomebamba,5.0
+user1,Parque Calderón,2.0
+user3,Museo de las Culturas Aborígenes,2.0
+user3,Río Tomebamba,2.0
+user5,Parque Calderón,3.0
+user3,Parque Calderón,2.0
+user3,Parque Calderón,3.0
+user3,Laguna Llaviucu,5.0
+as Aborígenes,5,
+user1,Museo Pumapungo,1.0
+user3,Laguna Llaviucu,1.0
+user3,Río Tomebamba,1.0
+user4,Mirador de Turi,5.0
+.0,,
+user3,Parque Calderón,3.0
+user2,Museo Pumapungo,2.0
+user1,Museo Pumapungo,4.0
+user2,Río Tomebamba,2.0
+s Aborígenes,2.0,
+user4,Río Tomebamba,3.0
+user4,Parque Nacional Cajas,3.0
+�genes,1.0
